@@ -14,11 +14,11 @@ Los pasos que cada integrante siguió son:
 7. Añadir los archivos y realizar los ajustes pertinentes.
 8. Subir los cambios por medio de los comandos 
     - `git add .` 
-    -  `git commit -m "mensaje"` 
-    - `git push origin`
+    - `git commit -m "mensaje"` 
+    - `git push origin nombre de la rama`
 9. Realizar merge de la rama personal a la rama de desarrollo (develop)
     - `git checkout develop`
-    - `gir merge + nombre de la rama personal`
+    - `git merge + nombre de la rama personal`
     - `git push`
 ---
 ### Contenido

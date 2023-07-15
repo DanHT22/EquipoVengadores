@@ -31,13 +31,13 @@ Los pasos que cada integrante siguió son:
 
 ---
 ### Integrantes:
-- Ana Cristina Cortez Jardón 
-- Angel Enrique Rivera Cardenas
-- [Daniela Heredia Tolumes] (https://github.com/DanHT22)
-- Dominique Marin Vicente
-- Francisco Núñez Alonso
-- Jose Luis Soto Chávez
-- María Fernanda Quezada Vásquez
+- Ana Cristina Cortez Jardón (https://github.com/AnaCristinaCortezJardon)
+- Angel Enrique Rivera Cardenas (https://github.com/ballang27)
+- Daniela Heredia Tolumes (https://github.com/DanHT22)
+- Dominique Marin Vicente (https://github.com/DominiqueMv)
+- Francisco Núñez Alonso (https://github.com/FranciscoNunezAlonso)
+- Jose Luis Soto Chávez (https://github.com/joseLuisppp90)
+- María Fernanda Quezada Vásquez (https://github.com/FerQV)
 
 ---
 

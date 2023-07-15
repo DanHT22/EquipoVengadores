@@ -21,12 +21,12 @@ Los pasos que cada integrante siguió son:
     - `git merge + nombre de la rama personal`
     - `git push`
 ---
-### Contenido
-- index.html
-- contecto.html
-- nosotros.html
-- productos.html
-- gallery.html
+### Estructura :
+- `index.html`Contiene información general de la página web.
+- `contacto.html` Contiene un formulario de contácto.
+- `nosotros.html` Contine información de quienes conforman el equipo.
+- `productos.html` Contiene información de productos que representan al equipo.
+- `gallery.html` Contiene una serie de imagenes que representan al equipo.
 
 
 ---
